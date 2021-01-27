@@ -1,8 +1,8 @@
-###### Вёрстка главной страницы сайта `Design`
+![Devices Mockup](/design.png)
+# Вёрстка главной страницы сайта `Design`
 
-## Стек
+##$ Стек
 * HTML
 * CSS(SASS)
 * JS(JQUERY)
 
-![Devices Mockup](/design.png)
