@@ -6,3 +6,5 @@
 * CSS(SASS)
 * JS(JQUERY)
 
+## Полная страница
+![FullPage](/fullpage.png)
